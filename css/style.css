@@ -675,3 +675,12 @@ li {
     padding: 20px 0;
   }
 }
+.iconsize{
+  position: absolute;
+  left: 20px;
+  top: 30px;
+  font-size: 50px;
+}
+.iconposi{
+  position: relative;
+}
